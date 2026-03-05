@@ -1,4 +1,3 @@
-<p align="center">🚀 Rishikesh Singh</p>
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Rishikesh%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn"/> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Node.js+%7C+Express+API+Builder;DSA+Enthusiast;Learning+System+Design;Always+Building+Cool+Things" /> </p>
 👨‍💻 About Me
 
