@@ -1,7 +1,6 @@
 # Tech Stack
 
 ## Languages
-
-<img src="https://skillicons.dev/icons?i=js,cpp,html,css,java,c" />
+<p> <img src="https://skillicons.dev/icons?i=js,cpp,html,css,java,c" /> </p>
 
 JavaScript • C++ • HTML • CSS • Java • C
