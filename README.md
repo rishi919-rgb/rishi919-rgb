@@ -153,7 +153,6 @@ Improve continuously.
 
 </p>
 
-⚠️ This requires a GitHub Action to work.
 
 ---
 
