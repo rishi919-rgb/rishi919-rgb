@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Node.js+%7C+Express+API+Builder;DSA+Enthusiast;Learning+System+Design;Always+Building+Cool+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Node.js+%7C+Express+API+Builder;DSA+Enthusiast;Learning+System+Design;Always+Building+Cool+Things" />
 </p>
 
 ---
@@ -16,11 +16,11 @@ I enjoy learning deeply about how systems work internally, solving algorithmic p
 
 ⚡ **Current focus**
 
-* Backend Development
-* REST API Architecture
-* Data Structures & Algorithms
-* Clean & Maintainable Code
-* System Design Fundamentals
+-> Full Stack JavaScript Developer
+-> Node.js | Express API Builder
+-> React + MongoDB
+-> DSA Enthusiast
+-> Learning System Design
 
 ---
 
@@ -145,24 +145,23 @@ Improve continuously.
 
 ---
 
-# 🐍 Contribution Snake
+# 🧠 LeetCode Progress
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+<a href="https://leetcode.com/u/rishi919/">
+<img src="https://img.shields.io/badge/LeetCode-rishi919-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/rishi919?theme=dark&font=Fira%20Code&ext=heatmap"/>
 
 </p>
 
 
----
-
-# 👀 Profile Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=rishi919-rgb&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-
-</p>
 
 ---
 
