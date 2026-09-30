@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Node.js+%7C+Express+%7C+React+%7C+MongoDB;Backend+Systems+%26+REST+APIs;DSA+%26+System+Design+Enthusiast;Open+Source+Contributor+%40+FOSSASIA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Node.js+%7C+Express+%7C+React+%7C+MongoDB;Backend+Systems+%26+REST+APIs;DSA+%26+System+Design+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,39 +25,22 @@
 
 # 👨‍💻 About Me
 
-💡 I'm **Rishikesh Singh**, a software developer focused on building scalable backend systems, robust APIs, and modern full-stack web applications.
-
-I enjoy understanding how systems work under the hood, writing comprehensive unit tests, and solving complex algorithmic problems.
+💡 I'm **Rishikesh Singh**, a software developer passionate about building scalable backend architectures, high-performance REST APIs, and modern full-stack web applications.
 
 - 🚀 **Core Focus:** Node.js, Express, React, MongoDB, C++, and System Architecture.
 - 🌐 **Open Source:** Active contributor to organizations like **FOSSASIA** and **Apache Software Foundation**.
-- 🧠 **Problem Solving:** Passionate about Data Structures & Algorithms and solving algorithmic challenges.
+- 🧠 **Problem Solving:** Dedicated to continuous algorithmic improvement on LeetCode.
+- ⚡ **Philosophy:** *Write maintainable code, test thoroughly, and build systems that scale.*
 
 ---
 
 # 🌐 Open Source Contributions
 
 * **[FOSSASIA](https://github.com/fossasia)**
-  * **[scrum_helper](https://github.com/fossasia/scrum_helper):** Architected and merged a complete 25-case Vitest unit testing suite covering Codeberg API integration, pagination, and local storage persistence.
-  * **[visdom](https://github.com/fossasia/visdom):** Contributed visualization bug fixes and input validation handlers.
+  * **[scrum_helper](https://github.com/fossasia/scrum_helper):** Architected and merged a comprehensive 25-case Vitest unit testing suite covering Codeberg API normalization, pagination, and local storage persistence.
+  * **[visdom](https://github.com/fossasia/visdom):** Contributed input validation and bug fixes for data visualization handlers.
 * **[Apache Software Foundation](https://github.com/apache)**
   * **[cordova-docs](https://github.com/apache/cordova-docs):** Documented cross-platform CLI argument passthrough workflows.
-
----
-
-# 📊 Activity Overview
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rishi919-rgb/rishi919-rgb/main/assets/activity-overview.svg" alt="GitHub Activity Overview" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rishi919-rgb&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishi919-rgb&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
-</p>
 
 ---
 
@@ -81,6 +64,19 @@ I enjoy understanding how systems work under the hood, writing comprehensive uni
 ### 🧰 Developer Tools & Testing
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,vitest,linux" alt="Tools and Testing" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rishi919-rgb&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rishi919-rgb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rishi919-rgb&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
