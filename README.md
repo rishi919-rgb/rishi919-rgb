@@ -13,6 +13,9 @@
   <a href="https://github.com/rishi919-rgb">
     <img src="https://img.shields.io/badge/GitHub-rishi919--rgb-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/rishikesh-singh-ges/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rishikesh%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://www.youtube.com/@rishikesh919">
     <img src="https://img.shields.io/badge/YouTube-Rishikesh%20Singh-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
@@ -36,11 +39,41 @@
 
 # 🌐 Open Source Contributions
 
+### 🏅 Organizations & Recognition
+<p>
+  <a href="https://github.com/orgs/fossasia/people">
+    <img src="https://img.shields.io/badge/FOSSASIA-Official%20Member-007ACC?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/fossasia">
+    <img src="https://img.shields.io/badge/FOSSASIA-Codeheat%20Contributor-FF6F00?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+  </a>
+  <a href="https://github.com/apache">
+    <img src="https://img.shields.io/badge/Apache-Contributor-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+  </a>
+  <a href="https://github.com/AOSSIE-Org">
+    <img src="https://img.shields.io/badge/AOSSIE-Contributor-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+### 🚀 Key Projects & Contributions
+
 * **[FOSSASIA](https://github.com/fossasia)**
-  * **[scrum_helper](https://github.com/fossasia/scrum_helper):** Architected and merged a comprehensive 25-case Vitest unit testing suite covering Codeberg API normalization, pagination, and local storage persistence.
-  * **[visdom](https://github.com/fossasia/visdom):** Contributed input validation and bug fixes for data visualization handlers.
+  * **[visdom](https://github.com/fossasia/visdom)** *(Real-time Data Visualization Tool)*:
+    * **[#1900](https://github.com/fossasia/visdom/pull/1900) (Merged 🎉):** Resolved race condition in uninitialized session handling and compare view.
+    * **[#1878](https://github.com/fossasia/visdom/pull/1878) (Merged 🎉):** Implemented strict session ID (`sid`) and payload validation in `CompareHandler`.
+    * **[#1854](https://github.com/fossasia/visdom/pull/1854) (Merged 🎉):** Fixed dimension squeeze crash on size-1 inputs in `parallel_coordinates()`.
+    * **[#1852](https://github.com/fossasia/visdom/pull/1852) (Merged 🎉):** Guarded `SaveHandler` against malformed JSON and unhandled HTTP 500 crashes.
+    * **[#1892](https://github.com/fossasia/visdom/pull/1892) (In Review):** Security hardening and RFC 8259 non-standard constant rejection across environment management handlers.
+    * **[#1959](https://github.com/fossasia/visdom/pull/1959) (In Review):** Auto-raveling single-column 2D vector inputs and mutation prevention in `dual_axis_lines()`.
+  * **[scrum_helper](https://github.com/fossasia/scrum_helper)** *(Developer Standup & Activity Tracker)*:
+    * **[#872](https://github.com/fossasia/scrum_helper/pull/872) (Merged 🎉):** Architected complete 25-case Vitest unit testing suite covering Codeberg API normalization, pagination, and persistence.
+    * **[#891](https://github.com/fossasia/scrum_helper/pull/891) (In Review):** Differentiated cache key hashing based on authentication token fingerprints.
+* **[AOSSIE](https://github.com/AOSSIE-Org)**
+  * **[OrgExplorer](https://github.com/AOSSIE-Org/OrgExplorer)** *(Open Source Ecosystem Visualizer)*:
+    * **[#254](https://github.com/AOSSIE-Org/OrgExplorer/pull/254) (In Review):** Designed interactive and explainable repository health scoring with comprehensive Vitest coverage.
 * **[Apache Software Foundation](https://github.com/apache)**
-  * **[cordova-docs](https://github.com/apache/cordova-docs):** Documented cross-platform CLI argument passthrough workflows.
+  * **[cordova-docs](https://github.com/apache/cordova-docs)** *(Apache Cordova Documentation)*:
+    * **[#1530](https://github.com/apache/cordova-docs/pull/1530) (In Review):** Documented cross-platform CLI argument passthrough workflows for Windows environments.
 
 ---
 
@@ -100,6 +133,9 @@
 <p align="center">
   <a href="https://github.com/rishi919-rgb">
     <img src="https://img.shields.io/badge/GitHub-rishi919--rgb-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rishikesh-singh-ges/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rishikesh%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/@rishikesh919">
     <img src="https://img.shields.io/badge/YouTube-Rishikesh%20Singh-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
