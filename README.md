@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Node.js+%7C+Express+%7C+React+%7C+MongoDB;Backend+Systems+%26+REST+APIs;DSA+%26+System+Design+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Node.js+%7C+Express+%7C+React+%7C+MongoDB;Open+Source+Contributor+%7C+FOSSASIA+%26+Apache;Backend+Systems+%26+REST+APIs;DSA+%26+System+Design+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -28,10 +28,11 @@
 
 # 👨‍💻 About Me
 
-💡 I'm **Rishikesh Singh**, a software developer passionate about building scalable backend architectures, high-performance REST APIs, and modern full-stack web applications.
+💡 I'm **Rishikesh Singh**, a software developer passionate about building resilient backend architectures, high-performance REST APIs, and modern full-stack web applications.
 
-- 🚀 **Core Focus:** Node.js, Express, React, MongoDB, C++, and System Architecture.
-- 🌐 **Open Source:** Active contributor to organizations like **FOSSASIA** and **Apache Software Foundation**.
+- 🚀 **Core Focus:** Node.js, Express, React, MongoDB, C++, and Distributed Systems.
+- 🌐 **Open Source:** Official Member at **FOSSASIA** and Active Contributor to **Apache Software Foundation** and **AOSSIE**.
+- 🏆 **Track Record:** **8 Merged PRs** across production repositories in Apache and FOSSASIA.
 - 🧠 **Problem Solving:** Dedicated to continuous algorithmic improvement on LeetCode.
 - ⚡ **Philosophy:** *Write maintainable code, test thoroughly, and build systems that scale.*
 
@@ -44,36 +45,50 @@
   <a href="https://github.com/orgs/fossasia/people">
     <img src="https://img.shields.io/badge/FOSSASIA-Official%20Member-007ACC?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/fossasia">
-    <img src="https://img.shields.io/badge/FOSSASIA-Codeheat%20Contributor-FF6F00?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
-  </a>
   <a href="https://github.com/apache">
     <img src="https://img.shields.io/badge/Apache-Contributor-D22128?style=for-the-badge&logo=apache&logoColor=white" />
   </a>
   <a href="https://github.com/AOSSIE-Org">
     <img src="https://img.shields.io/badge/AOSSIE-Contributor-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://github.com/fossasia">
+    <img src="https://img.shields.io/badge/FOSSASIA-Codeheat%20Contributor-FF6F00?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+  </a>
 </p>
 
-### 🚀 Key Projects & Contributions
+### 🏆 Merged Pull Requests (8 Merged)
+
+* **[Apache Software Foundation](https://github.com/apache)**
+  * **[cordova-docs](https://github.com/apache/cordova-docs)** *(Apache Cordova Documentation)*:
+    * **[#1530](https://github.com/apache/cordova-docs/pull/1530) (Merged 🎉):** Documented cross-platform CLI argument passthrough workflows and Windows shell quoting requirements (`"--"`).
+  * **[cordova-cli](https://github.com/apache/cordova-cli)** *(Apache Cordova Command-Line Interface)*:
+    * **[#735](https://github.com/apache/cordova-cli/pull/735) (Merged 🎉):** Documented Windows shell quoting requirements for intermediate pass-through arguments in CLI documentation.
 
 * **[FOSSASIA](https://github.com/fossasia)**
   * **[visdom](https://github.com/fossasia/visdom)** *(Real-time Data Visualization Tool)*:
-    * **[#1900](https://github.com/fossasia/visdom/pull/1900) (Merged 🎉):** Resolved race condition in uninitialized session handling and compare view.
+    * **[#1900](https://github.com/fossasia/visdom/pull/1900) (Merged 🎉):** Fixed repository-wide CI blocker in uninitialized compare view sessions and WebSocket registration.
     * **[#1878](https://github.com/fossasia/visdom/pull/1878) (Merged 🎉):** Implemented strict session ID (`sid`) and payload validation in `CompareHandler`.
     * **[#1854](https://github.com/fossasia/visdom/pull/1854) (Merged 🎉):** Fixed dimension squeeze crash on size-1 inputs in `parallel_coordinates()`.
-    * **[#1852](https://github.com/fossasia/visdom/pull/1852) (Merged 🎉):** Guarded `SaveHandler` against malformed JSON and unhandled HTTP 500 crashes.
-    * **[#1892](https://github.com/fossasia/visdom/pull/1892) (In Review):** Security hardening and RFC 8259 non-standard constant rejection across environment management handlers.
-    * **[#1959](https://github.com/fossasia/visdom/pull/1959) (In Review):** Auto-raveling single-column 2D vector inputs and mutation prevention in `dual_axis_lines()`.
+    * **[#1852](https://github.com/fossasia/visdom/pull/1852) (Merged 🎉):** Guarded `SaveHandler` against malformed JSON payloads and unhandled HTTP 500 crashes.
   * **[scrum_helper](https://github.com/fossasia/scrum_helper)** *(Developer Standup & Activity Tracker)*:
-    * **[#872](https://github.com/fossasia/scrum_helper/pull/872) (Merged 🎉):** Architected complete 25-case Vitest unit testing suite covering Codeberg API normalization, pagination, and persistence.
-    * **[#891](https://github.com/fossasia/scrum_helper/pull/891) (In Review):** Differentiated cache key hashing based on authentication token fingerprints.
+    * **[#891](https://github.com/fossasia/scrum_helper/pull/891) (Merged 🎉):** Prevented cross-account cache leakage by differentiating cache keys using token fingerprint markers.
+    * **[#872](https://github.com/fossasia/scrum_helper/pull/872) (Merged 🎉):** Built comprehensive 25-case Vitest unit test suite covering Codeberg API normalization, pagination, and persistence.
+
+---
+
+### 🚀 Active Contributions (In Review & 100% CI Green)
+
+* **[FOSSASIA](https://github.com/fossasia)**
+  * **[visdom](https://github.com/fossasia/visdom)**:
+    * **[#2052](https://github.com/fossasia/visdom/pull/2052) (Under Review):** Fixed `vis.stem()` single-timestamp multi-series matrices shape inversion and caller `opts` in-place mutation; preserved row-vector timestamp behavior with complete unit test suite.
+    * **[#1959](https://github.com/fossasia/visdom/pull/1959) (Under Review):** Handled 2D column vector inputs, Plotly categorical X-axis layouts, and caller options protection in `dual_axis_lines()` (100% CI Green, 20/20 checks passing).
+    * **[#1892](https://github.com/fossasia/visdom/pull/1892) (Under Review):** Hardened environment management handlers (`DeleteEnvHandler`, `EnvStateHandler`, `ExistsHandler`) with RFC 8259 scalar type validations.
+  * **[scrum_helper](https://github.com/fossasia/scrum_helper)**:
+    * **[#914](https://github.com/fossasia/scrum_helper/pull/914) (Under Review):** Engineered 32-case Vitest unit test suite covering GitLab namespace parsing, base URL normalization, cache TTL, and report normalization.
+    * **[#921](https://github.com/fossasia/scrum_helper/pull/921) (Under Review):** Engineered 43-case Vitest unit test suite covering GitHub REST API helpers, token validation, cache key generation, and UI guards.
 * **[AOSSIE](https://github.com/AOSSIE-Org)**
-  * **[OrgExplorer](https://github.com/AOSSIE-Org/OrgExplorer)** *(Open Source Ecosystem Visualizer)*:
-    * **[#254](https://github.com/AOSSIE-Org/OrgExplorer/pull/254) (In Review):** Designed interactive and explainable repository health scoring with comprehensive Vitest coverage.
-* **[Apache Software Foundation](https://github.com/apache)**
-  * **[cordova-docs](https://github.com/apache/cordova-docs)** *(Apache Cordova Documentation)*:
-    * **[#1530](https://github.com/apache/cordova-docs/pull/1530) (In Review):** Documented cross-platform CLI argument passthrough workflows for Windows environments.
+  * **[OrgExplorer](https://github.com/AOSSIE-Org/OrgExplorer)**:
+    * **[#254](https://github.com/AOSSIE-Org/OrgExplorer/pull/254) (Under Review — Approved by CodeRabbit):** Designed interactive slide-out repository health metrics drawer (`RepoHealthDrawer`) with composite scoring breakdown and comprehensive Vitest test suite.
 
 ---
 
